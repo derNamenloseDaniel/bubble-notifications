@@ -4,7 +4,7 @@ Nice customizable notifications with a simple animation. Zero dependencies, ~1 K
 
 ## 🫧 Live demo
 
-**➡️ https://danielzaiser91.github.io/bubble-notifications/**
+**➡️ https://dernamenlosedaniel.github.io/bubble-notifications/**
 
 The demo page shows the bubbles in action (themes, durations, stacking) and walks through installation and usage — try it before you install.
 

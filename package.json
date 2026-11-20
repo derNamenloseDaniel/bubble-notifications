@@ -20,13 +20,13 @@
   "sideEffects": [
     "*.css"
   ],
-  "homepage": "https://danielzaiser91.github.io/bubble-notifications/",
+  "homepage": "https://dernamenlosedaniel.github.io/bubble-notifications/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielzaiser91/bubble-notifications"
+    "url": "https://github.com/derNamenloseDaniel/bubble-notifications"
   },
   "bugs": {
-    "url": "https://github.com/danielzaiser91/bubble-notifications/issues"
+    "url": "https://github.com/derNamenloseDaniel/bubble-notifications/issues"
   },
   "keywords": [
     "notifications",
